@@ -200,7 +200,7 @@ async def on_message(msg):
         sentAnswer = "somewhat negative"
       else:
         sentAnswer = "slightly negative"
-      await msg.channel.send(f"Calculating the average sentiment for {usedCounter} messages containing the phrase/keyword '{input}'...\nCalculated sentiment for phrases containing '{input}': {total}\nIn other words, the phrase '{input}' is {sentAnswer}.")
+      await msg.channel.send(f"Calculating the average sentiment for {usedCounter} messages containing the phrase/keyword '{input}'...\nCalculated sentiment for phrases containing '{input}': {round(total, 2)}\nIn other words, the phrase '{input}' is {sentAnswer}.")
 
   if msg.content.startswith(">trySent "): #TRY DISCORD QUERY
     input = msg.content[9:]
