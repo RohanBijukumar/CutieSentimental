@@ -1,5 +1,6 @@
 # CutieSentimental
-Repository for our Cutie Hack 2022 Sentiment Tracking Bo
+This is our repository for our Cutie Hack '22 Project.
+>Authors: By Rohan Bijukumar, Shaurya Pathak, Kavin Phabiani
 >
 ## Inspiration
 > We've all spent a great deal of time in Discord; because of this, a lot of people have realized that sarcasm and a lot of opinions don't really translate well to text-based applications. To help alleviate this problem, we created Cutie Sentimental. Yeah, the name could use some work.
