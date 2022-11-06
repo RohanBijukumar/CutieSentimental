@@ -1,4 +1,4 @@
-# CutieSentimental
+# CutieSentimental ![Logo] (https://github.com/rbiju001/CutieSentimental/blob/main/CutieSentimentalLogo.png)
 This is our repository for our Cutie Hack '22 Project.
 >Authors: By Rohan Bijukumar, Shaurya Pathak, Kavin Phabiani
 >
