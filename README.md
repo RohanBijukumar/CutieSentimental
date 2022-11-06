@@ -22,3 +22,6 @@ This is our repository for our Cutie Hack '22 Project.
 
 ## What's next for Cutie Sentimental
 > Who knows? For sure, we're going to keep competing in Hackathons, and ensure that our projects will only get better with each one!
+
+## Credits
+> Used: OpenAI, OpenCV, Python, Discord, UptimeRobot, Replit, GitHub, etc.
