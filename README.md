@@ -1,6 +1,6 @@
-# CutieSentimental ![Logo] (https://github.com/rbiju001/CutieSentimental/blob/main/CutieSentimentalLogo.png)
+# CutieSentimental
 This is our repository for our Cutie Hack '22 Project.
->Authors: By Rohan Bijukumar, Shaurya Pathak, Kavin Phabiani
+> Authors: By Rohan Bijukumar, Shaurya Pathak, Kavin Phabiani
 >
 ## Inspiration
 > We've all spent a great deal of time in Discord; because of this, a lot of people have realized that sarcasm and a lot of opinions don't really translate well to text-based applications. To help alleviate this problem, we created Cutie Sentimental. Yeah, the name could use some work.
