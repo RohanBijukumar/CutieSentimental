@@ -1,7 +1,7 @@
 # CutieSentimental
 This is our repository for our Cutie Hack '22 Project.
 > Authors: By Rohan Bijukumar, Shaurya Pathak, Kavin Phabiani
->
+> [Our Website!](https://kavinphab.github.io/)
 > [Add CutieSentimental to your server!](https://discord.com/oauth2/authorize?client_id=1038500778962337873&permissions=534723951680&scope=bot)
 ## Inspiration
 > We've all spent a great deal of time in Discord; because of this, a lot of people have realized that sarcasm and a lot of opinions don't really translate well to text-based applications. To help alleviate this problem, we created Cutie Sentimental. Yeah, the name could use some work.
